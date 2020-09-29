@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A7S212021prac1</string>
+    <string name="titulo">Segundo programa</string>
+    <string name="nombre">ingresa tu nombre</string>
+    <string name="titulo2">Segunda Pantalla</string>
+    <string name="btnsaludar">Presiona</string>
+</resources>
